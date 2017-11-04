@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Kakao_News/Kakao_News.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Kakao_Bus/Kakao_Bus.xcodeproj">
    </FileRef>
    <FileRef
